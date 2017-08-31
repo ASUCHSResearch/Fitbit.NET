@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     public static class StringAttributeExtensions
     {

@@ -1,7 +1,7 @@
-﻿using Fitbit.Api.Portable.OAuth2;
+﻿using FitbitSNHP.Api.Portable.OAuth2;
 using System.Threading.Tasks;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     public interface ITokenManager
     {

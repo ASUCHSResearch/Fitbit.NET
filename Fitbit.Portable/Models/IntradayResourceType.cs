@@ -1,6 +1,6 @@
-﻿using Fitbit.Api.Portable;
+﻿using FitbitSNHP.Api.Portable;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     public enum IntradayResourceType
     {

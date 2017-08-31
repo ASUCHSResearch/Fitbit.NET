@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     public class ActivityGoals
     {

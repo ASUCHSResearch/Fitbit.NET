@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Serialization;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     /// <summary>
     /// Class that represents the subscription information sent from Fitbit to alert of new updated resources

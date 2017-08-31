@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using Fitbit.Models;
+using FitbitSNHP.Models;
 using Newtonsoft.Json.Linq;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     internal static class JsonDotNetSerializerExtensions
     {

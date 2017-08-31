@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fitbit.Api.Portable.Models
+namespace FitbitSNHP.Api.Portable.Models
 {
     public class LevelsData
     {

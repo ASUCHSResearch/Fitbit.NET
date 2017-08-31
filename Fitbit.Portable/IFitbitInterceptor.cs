@@ -1,4 +1,4 @@
-﻿namespace Fitbit.Api.Portable
+﻿namespace FitbitSNHP.Api.Portable
 {
     using System.Net.Http;
     using System.Threading;

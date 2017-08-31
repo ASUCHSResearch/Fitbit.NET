@@ -1,7 +1,7 @@
 ﻿using Newtonsoft.Json;
 using System;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     public class FoodLog
     {

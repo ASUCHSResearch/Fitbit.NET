@@ -4,7 +4,7 @@ using System.Linq;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     //[JsonConverter(typeof(HeartActivitiesIntradayConverter))]
     public class HeartActivitiesIntraday

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Fitbit.Api.Portable.Models
+namespace FitbitSNHP.Api.Portable.Models
 {
     public class Sleep
     {

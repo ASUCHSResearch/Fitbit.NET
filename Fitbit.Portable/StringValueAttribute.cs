@@ -1,6 +1,6 @@
 using System;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     public class StringValueAttribute : Attribute
     {

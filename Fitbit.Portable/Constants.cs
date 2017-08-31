@@ -1,4 +1,4 @@
-﻿namespace Fitbit.Api.Portable
+﻿namespace FitbitSNHP.Api.Portable
 {
     internal class Constants
     {

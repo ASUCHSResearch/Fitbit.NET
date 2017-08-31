@@ -5,7 +5,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fitbit.Api.Portable.OAuth2
+namespace FitbitSNHP.Api.Portable.OAuth2
 {
     public class OAuth2Helper
     {

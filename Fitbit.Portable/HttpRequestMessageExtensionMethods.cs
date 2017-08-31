@@ -6,7 +6,7 @@ using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     internal static class HttpRequestMessageExtensionMethods
     {

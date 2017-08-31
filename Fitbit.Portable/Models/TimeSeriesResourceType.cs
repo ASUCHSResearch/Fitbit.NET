@@ -1,6 +1,6 @@
-﻿using Fitbit.Api.Portable;
+﻿using FitbitSNHP.Api.Portable;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     /// <summary>
     /// All time series types that can be queried from fitbit

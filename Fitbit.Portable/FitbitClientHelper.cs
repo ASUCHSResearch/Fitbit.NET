@@ -1,8 +1,8 @@
 ﻿using System;
-using Fitbit.Api.Portable.Models;
-using Fitbit.Models;
+using FitbitSNHP.Api.Portable.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     internal static class FitbitClientExtensions
     {

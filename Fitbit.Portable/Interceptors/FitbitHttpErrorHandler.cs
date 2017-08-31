@@ -6,9 +6,9 @@ using System.Net.Http;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using Fitbit.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable.Interceptors
+namespace FitbitSNHP.Api.Portable.Interceptors
 {
     public class FitbitHttpErrorHandler : IFitbitInterceptor
     {

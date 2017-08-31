@@ -1,7 +1,7 @@
 ﻿using System;
 using Newtonsoft.Json;
 
-namespace Fitbit.Api.Portable.OAuth2
+namespace FitbitSNHP.Api.Portable.OAuth2
 {
     public class OAuth2AccessToken
     {

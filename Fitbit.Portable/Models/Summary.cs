@@ -1,4 +1,4 @@
-﻿namespace Fitbit.Api.Portable.Models
+﻿namespace FitbitSNHP.Api.Portable.Models
 {
     /// <summary>
     /// Secondary object that is returned from the api call

@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using Fitbit.Api.Portable.Models;
-using Fitbit.Models;
+using FitbitSNHP.Api.Portable.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     public interface IFitbitClient
     {

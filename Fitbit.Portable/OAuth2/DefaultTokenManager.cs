@@ -1,4 +1,4 @@
-﻿namespace Fitbit.Api.Portable.OAuth2
+﻿namespace FitbitSNHP.Api.Portable.OAuth2
 {
     using System.Collections.Generic;
     using System.Net.Http;

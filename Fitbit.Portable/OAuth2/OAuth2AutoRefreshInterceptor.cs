@@ -8,9 +8,9 @@ using System.Net.Http;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
-using Fitbit.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable.OAuth2
+namespace FitbitSNHP.Api.Portable.OAuth2
 {
     /// <summary>
     /// An Http interceptor that intercepts "stale token" responses and invokes the Token Manager of the FitbitClient to get a new token.

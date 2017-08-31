@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     //https://wiki.fitbit.com/display/API/API-Get-Body-Fat
     public class FatLog

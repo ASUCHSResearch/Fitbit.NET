@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 using System.Net.Http;
-using Fitbit.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     public class FitbitTokenException : FitbitRequestException
     {

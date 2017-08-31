@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Xml.Serialization;
-using Fitbit.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable.Models
+namespace FitbitSNHP.Api.Portable.Models
 {
     [XmlRoot("updates")]
     public class UpdatedResourceList

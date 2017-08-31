@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Net;
 using System.Net.Http;
-using Fitbit.Models;
+using FitbitSNHP.Models;
 using System;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     public class FitbitRequestException : FitbitException
     {

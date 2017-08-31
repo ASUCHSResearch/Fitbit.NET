@@ -3,10 +3,10 @@ using System.IO;
 using System.Linq;
 using System.Xml;
 using System.Xml.Serialization;
-using Fitbit.Api.Portable.Models;
-using Fitbit.Models;
+using FitbitSNHP.Api.Portable.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     using System;
     using System.Collections.Generic;

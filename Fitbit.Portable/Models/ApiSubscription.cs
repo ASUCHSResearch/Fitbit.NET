@@ -1,4 +1,4 @@
-﻿namespace Fitbit.Models
+﻿namespace FitbitSNHP.Models
 {
     /// <summary>
     /// Represents an existing subscription for a user: 

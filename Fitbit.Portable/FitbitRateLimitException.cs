@@ -1,8 +1,8 @@
 using System;
 using System.Collections.Generic;
-using Fitbit.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     public class FitbitRateLimitException : FitbitException
     {

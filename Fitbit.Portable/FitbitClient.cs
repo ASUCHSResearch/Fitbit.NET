@@ -4,12 +4,12 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Threading.Tasks;
-using Fitbit.Api.Portable.OAuth2;
+using FitbitSNHP.Api.Portable.OAuth2;
 using System.Net.Http.Headers;
-using Fitbit.Api.Portable.Models;
-using Fitbit.Models;
+using FitbitSNHP.Api.Portable.Models;
+using FitbitSNHP.Models;
 
-namespace Fitbit.Api.Portable
+namespace FitbitSNHP.Api.Portable
 {
     public class FitbitClient : IFitbitClient
     {

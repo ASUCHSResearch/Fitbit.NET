@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     public class Food
     {

@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace Fitbit.Models
+namespace FitbitSNHP.Models
 {
     public class LifetimeTotals
     {

@@ -1,4 +1,4 @@
-﻿namespace Fitbit.Models
+﻿namespace FitbitSNHP.Models
 {
     public class HeartRateZone
     {
