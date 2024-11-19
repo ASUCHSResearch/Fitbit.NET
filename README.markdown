@@ -4,6 +4,9 @@
 See more information about this. If you're starting a new projet, you should take a closer look at using the new, almost complete library: 
 https://github.com/aarondcoleman/Fitbit.NET/wiki/PREPARING-FOR-BREAKING-CHANGES---v2-Fitbit.NET-API-Library-In-Development
 
+ASU notes:
+This is an old library cloned from Aaron Coleman's Fitabase.
+It may need some updating if we change over to .NET core or other newer flavors of .NET.
 ## V1 Info
 
 ### License: Apache License 2.0
